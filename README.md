@@ -55,9 +55,6 @@
 <br clear="both">
 
  
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelrahman-khaled&theme=github_dark)
-</div>
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" />
 
 ###
