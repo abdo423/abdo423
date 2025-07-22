@@ -2,7 +2,7 @@
 
 ###
 ### 💡 About Me:
-- 🔭 I’m currently working on: [Crowdfunding Web App](https://github.com/ibrahim-glab/CrowdFunding-GP/tree/webSiteV1)
+- 🔭 I’m currently working on: [Crowdfunding Web App](https://github.com/abdo423/DevConnect.git)
 - 🌱 Learning: Advanced React, TypeScript, Clean Architecture
 - 💬 Ask me about: Frontend development, UI/UX, React, Angular
 - 🧠 Fun Fact: I build clean code like I organize my desk—minimal and efficient.
