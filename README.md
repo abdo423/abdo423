@@ -74,5 +74,5 @@
 ### 🐍 Contribution Snake (Dark Mode)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdo423/abdo423/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/abdo423/abdo423/output//github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
