@@ -55,6 +55,13 @@
 <br clear="both">
 
  
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" />
+### 🚧 Featured Projects
+
+- 🏥 [Hospital Management System](https://github.com/abdo423/React-Hospital-system-CAI1_SWD2_S8e)
+  > Modular React + TypeScript frontend with CRUD dashboard and REST APIs
+
+- 💸 [Crowdfunding Web App](https://github.com/ibrahim-glab/CrowdFunding-GP/tree/webSiteV1)
+  > Built on blockchain + MetaMask + React with major UX improvements
+/>
 
 ###
