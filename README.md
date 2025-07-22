@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1500&pause=400&color=39FF14&background=00000000&center=true&vCenter=true&width=850&lines=%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F;%F0%9F%92%BB+%3E%3E+ABDELRHMAN+KHALED+%3C%3C+%F0%9F%92%BB;%F0%9F%9A%80+REACT+%7C+FRONTEND+%7C+TAILWIND+%F0%9F%9A%80;%F0%9F%94%A5+Booting+%5BUI+Engine%5D...;%F0%9F%91%BB+Rendering+Pixels+with+Purpose...;%E2%9C%94%EF%B8%8F+Deploying+Designs+at+Warp+Speed;%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF9D&background=0D111700&center=true&width=800&lines=%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23;%F0%9F%96%96%EF%B8%8F+%3E+ABDELRHMAN+KHALED+%3C;%F0%9F%92%BB+FRONTEND+%7C+REACT+%7C+WEB+%F0%9F%92%BB;%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23;%5B%5E_%5E%5D%3A+Turning+ideas+into+interfaces...;%7B%7D%3A+Clean+code+%26+fast+renders;%5B%2F%5D%3A+Debugging+like+a+detective" alt="Typing SVG" />
 </h1>
 
 
