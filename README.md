@@ -1,6 +1,11 @@
 <h2 align="left">Hi 👋! My name is Abdelrhman Khaled and I'm a Frontend Developer from Cairo, Egypt.</h2>
 
 ###
+### 💡 About Me:
+- 🔭 I’m currently working on: [Crowdfunding Web App](https://github.com/ibrahim-glab/CrowdFunding-GP/tree/webSiteV1)
+- 🌱 Learning: Advanced React, TypeScript, Clean Architecture
+- 💬 Ask me about: Frontend development, UI/UX, React, Angular
+- 🧠 Fun Fact: I build clean code like I organize my desk—minimal and efficient.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdo423&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
