@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>>+Loading...;Welcome+to+My+Profile;Name:+Abdelrhman+Khaled;Web+Developer+%7C+React+Ninja;Crafting+Interfaces+with+Code+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+whoami;abdelrhman_khaled;role:+frontend+developer;tech:+React,+TS,+Tailwind" />
 </h1>
 
 
