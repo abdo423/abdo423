@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! I'm  <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&duration=5000&color=FF0000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%94%A5+%F0%9F%8E%AF+Insert+Coin+%F0%9F%8E%AF+%F0%9F%94%A5;Abdelrhman+Khaled...;Web+Developer;Building+the+Web+Pixel+by+Pixel+%F0%9F%92%BB;Welcome+to+My+Arcade+of+Code+%F0%9F%8E%AE" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&duration=5000&center=true&vCenter=true&width=600&lines=>>Insert+Coin<<;Abdelrhman+Khaled;Web+Developer" />
 </h1>
- — a Frontend Developer from Cairo, Egypt.</h2>
+<h2 align="left">Hi 👋! I'm Abdelrhman Khaled — a Frontend Developer from Cairo, Egypt.</h2>
+
 
 ###
 
