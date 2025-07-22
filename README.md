@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=%F0%9F%8F%8E%EF%B8%8F+Start+Your+Engines...;I'm+Abdelrhman+Khaled!;Frontend+Web+Developer+%7C+React+Racer;Speeding+Through+Code+with+Style+%F0%9F%94%A5;From+Zero+to+Deployed+in+Record+Time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1500&pause=400&color=39FF14&background=00000000&center=true&vCenter=true&width=850&lines=%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F;%F0%9F%92%BB+%3E%3E+ABDELRHMAN+KHALED+%3C%3C+%F0%9F%92%BB;%F0%9F%9A%80+REACT+%7C+FRONTEND+%7C+TAILWIND+%F0%9F%9A%80;%F0%9F%94%A5+Booting+%5BUI+Engine%5D...;%F0%9F%91%BB+Rendering+Pixels+with+Purpose...;%E2%9C%94%EF%B8%8F+Deploying+Designs+at+Warp+Speed;%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F" alt="Typing SVG" />
 </h1>
+
 
 
 
