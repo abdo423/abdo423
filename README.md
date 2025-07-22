@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=$+whoami;abdelrhman_khaled;role:+frontend+developer;tech:+React,+TS,+Tailwind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=🏎️+Start+Your+Engines...;I'm+Abdelrhman+Khaled!;Frontend+Web+Developer+%7C+React+Racer;Speeding+Through+Code+with+Style+🔥;From+Zero+to+Deployed+in+Record+Time!">
 </h1>
+
 
 
 <h2 align="left">Hi 👋! I'm Abdelrhman Khaled — a Frontend Developer from Cairo, Egypt.</h2>
